@@ -28,7 +28,6 @@ Category :name
 Currently, one plant can have only one category. This does not represent the real-world situation (some plants are indoor, some are outdoor and some are both). We also see that the only relationship between a plant and a person is "parenthood" (ownership) but what about the moment when someone else waters your plants for you when you're away? They are not **owners** but they do interact with the plant.
 
 At the end of the practice, our ERD will look as following:
-
 ```
   Category
     |
